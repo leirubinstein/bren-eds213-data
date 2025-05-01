@@ -54,5 +54,3 @@ SELECT distinct Location
     FROM Site
     ORDER BY Location
     LIMIT 3;
-
-
